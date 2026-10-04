@@ -1,0 +1,19 @@
+p {
+    white-space: pre;
+    color: white;
+}
+body {
+    background-color: black;
+}
+summary h1 {
+  display: inline-block;
+  vertical-align: middle; 
+  margin: 0; 
+  color: white;
+}
+summary::marker {
+  color: #ffffff;
+}
+h1 {
+    color: white;
+}
